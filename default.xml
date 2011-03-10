@@ -251,7 +251,7 @@
   <project path="vendor/samsung/common" name="teamhacksung/android_vendor_samsung_common" remote="github" />
 
   <project path="kernel/samsung/2.6.35" name="teamhacksung/android_kernel_samsung" remote="github" revision="android-samsung-2.6.35" />
-  <project path="kernel/samsung/2.6.32-tab" name="techomancer/kernel_galaxytab" remote="github" revision="tab2.6.32.9" />
+  <project path="kernel/samsung/2.6.32-tab" name="techomancer/kernel-galaxytab" remote="github" revision="tab2.6.32.9" />
   <project path="initramfs/samsung/captivate" name="teamhacksung/gingerbread-captivate-initramfs" remote="github" revision="master" />
   <project path="initramfs/samsung/galaxys" name="teamhacksung/gingerbread-galaxys-initramfs" remote="github" revision="2.6.35" />
   <project path="initramfs/samsung/vibrant" name="teamhacksung/gingerbread-vibrant-initramfs" remote="github" revision="gingerbread" />
