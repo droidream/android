@@ -173,7 +173,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" />
-  <project path="frameworks/base" name="teamhacksung/android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
@@ -252,7 +252,7 @@
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
-  <project path="system/vold" name="teamhacksung/android_system_vold" remote="github" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
   <project path="vendor/cyanogen" name="techomancer/android_vendor_cyanogen" remote="github" />
@@ -261,9 +261,6 @@
 
   <project path="kernel/samsung/2.6.35" name="teamhacksung/android_kernel_samsung" remote="github" revision="android-samsung-2.6.35" />
   <project path="kernel/samsung/2.6.32-tab" name="techomancer/kernel-galaxytab" remote="github" revision="tab2.6.32.9" />
-  <project path="initramfs/samsung/captivate" name="teamhacksung/gingerbread-captivate-initramfs" remote="github" revision="master" />
-  <project path="initramfs/samsung/galaxys" name="teamhacksung/gingerbread-galaxys-initramfs" remote="github" revision="2.6.35" />
-  <project path="initramfs/samsung/vibrant" name="teamhacksung/gingerbread-vibrant-initramfs" remote="github" revision="gingerbread" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
