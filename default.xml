@@ -264,7 +264,7 @@
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
   <project path="vendor/cyanogen" name="cm7sgt/android_vendor_cyanogen" remote="github" />
-  <project path="vendor/samsung/common" name="cm7sgt/android_vendor_samsung_common" remote="github" />
+  <project path="vendor/samsung" name="cm7sgt/proprietary_vendor_samsung" remote="github" />
   <project path="kernel/samsung/2.6.35" name="teamhacksung/android_kernel_samsung" remote="github" revision="android-samsung-2.6.35" />
   <project path="kernel/samsung/2.6.32-tab" name="cm7sgt/kernel-galaxytab" remote="github" revision="tab2.6.32.9" />
 
