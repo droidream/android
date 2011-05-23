@@ -80,7 +80,7 @@
   <project path="device/samsung/epic4g" name="CyanogenMod/android_device_samsung_epic4g" remote="github" />
   <project path="device/samsung/fascinate" name="CyanogenMod/android_device_samsung_fascinate" remote="github" />
   <project path="device/samsung/galaxysmtd" name="teamhacksung/android_device_samsung_galaxysmtd" remote="github" />
-  <project path="device/samsung/galaxysb" name="teamhacksung/android_device_samsung_galaxysb" remote="github" />
+  <project path="device/samsung/galaxysbmtd" name="teamhacksung/android_device_samsung_galaxysbmtd" remote="github" />
   <project path="device/samsung/vibrantmtd" name="teamhacksung/android_device_samsung_vibrantmtd" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
@@ -265,8 +265,8 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
-  <project path="kernel/samsung/2.6.35" name="teamhacksung/android_kernel_samsung_aries" remote="github" revision="android-samsung-2.6.35" />
+  <project path="vendor/cyanogen" name="teamhacksung/android_vendor_cyanogen" remote="github" />
+  <project path="kernel/samsung/aries" name="teamhacksung/android_kernel_samsung_aries" remote="github" revision="android-samsung-2.6.35" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
@@ -274,8 +274,6 @@
   <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
-
-<!--  <project path="vendor/teamhacksung/themes/galaxys" name="teamhacksung/vendor_teamhacksung_themes_galaxys" remote="github" revision="master" /> -->
 
   <project path="android" name="teamhacksung/android" remote="github" />
 
