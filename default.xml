@@ -83,6 +83,7 @@
   <project path="device/samsung/galaxysbmtd" name="teamhacksung/android_device_samsung_galaxysbmtd" remote="github" />
   <project path="device/samsung/vibrantmtd" name="teamhacksung/android_device_samsung_vibrantmtd" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
+  <project path="device/samsung/galaxytab" name="cm7sgt/android_device_samsung_galaxytab" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
